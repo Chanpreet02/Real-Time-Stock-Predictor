@@ -1,0 +1,1 @@
+The keras model is the main model that is used to predict the values of a particular stock. This module was first trained on jupyter notebook and then saved in the local files. To load the same model in the python web application, load model function of the keras library was used.
